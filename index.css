@@ -1,0 +1,10 @@
+h1{
+    background-color: rgb(253, 4, 253);
+    font-family: Georgia, serif;
+    padding:2%;
+    text-decoration: underline;
+    border-style:groove;
+    text-decoration-color: rgb(178, 181, 182);
+    text-shadow:2px 2px 4px #000000;
+    color: #0ee794;
+}
